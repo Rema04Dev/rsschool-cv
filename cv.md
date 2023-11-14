@@ -14,3 +14,18 @@ and a collaborative mindset to find solutions.
 - Programming languages: JavaScript, TypeScript
 - Frameworks: React
 - Methodologies: Agile, Scrum
+
+### Code example
+```jsx
+ {
+        inputs.map((inputConfig) => (
+          <FormControl
+            placeholder={inputConfig.label}
+            error={inputConfig.error}
+            name={inputConfig.name}
+            register={inputConfig.register}
+            viewMode="edit"
+          />
+        ))
+      }
+```
