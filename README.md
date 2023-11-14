@@ -1,1 +1,1 @@
-[Markdown CV](https://github.com/Rema04Dev.github.io/rsschool-cv/cv)
+[Markdown CV](https://rema04dev.github.io/rsschool-cv/cv)
