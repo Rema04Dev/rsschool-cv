@@ -57,4 +57,5 @@ needs and requirements.
 - Hexlet
 - RS School
 
-### English: B1
+#### Russian: Native
+#### English: B1
