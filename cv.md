@@ -6,13 +6,16 @@
 - **Telegram:** [@Ramon04](https://t.me/Ramov04)
 
 ### About me
-Frontend developer with over 3 years of experience, specializing in
-React, Redux/MobX, and TypeScript. Strong communication skills
-and a collaborative mindset to find solutions.
+Frontend developer with over 2 years of experience, specializing in
+React, Redux/MobX, and TypeScript
 
-### Skills
+### Skills and Proficiency
 - **Programming languages:** JavaScript, TypeScript
 - **Frameworks:** React
+- **Unit-testing**: Jest
+- **CI**: GitHub Actions
+- **Localization:** i18next
+- **Patterns:** MVC, Clean Architecture
 - **Methodologies:** Agile, Scrum
 
 ### Code example
