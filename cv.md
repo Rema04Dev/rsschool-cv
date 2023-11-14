@@ -29,3 +29,23 @@ and a collaborative mindset to find solutions.
         ))
       }
 ```
+
+### Work Experience
+
+- #### Big Brother (Feb 2021)
+
+`Project Description:`
+A project for mining users, enabling them to search for geologicalinformation and display geological objects on an interactive map.
+
+`Tech Stack`: React, Redux, React-hook-form, Leaflet, Jest, React-
+testing-library
+
+`Achievements`:
+- Developed a functional user dashboard for mining users.
+- Designed advanced search forms for user convenience.
+- Implemented the display of graphic objects on the Leaflet map
+based on coordinates.
+- Introduced Jest for testing, ensuring application stability and
+reliability.
+- Collaborated with geologists and other specialists to meet their
+needs and requirements.
