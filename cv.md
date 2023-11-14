@@ -16,9 +16,6 @@ and a collaborative mindset to find solutions.
 - **Methodologies:** Agile, Scrum
 
 ### Code example
-<details>
-  <summary>show / hide</summary>
-
   ```jsx
  {
         inputs.map((inputConfig) => (
@@ -32,7 +29,6 @@ and a collaborative mindset to find solutions.
         ))
       }
 ```
-</details>
 
 ### Work Experience
 
