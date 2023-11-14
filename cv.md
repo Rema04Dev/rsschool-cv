@@ -49,3 +49,12 @@ based on coordinates.
 reliability.
 - Collaborated with geologists and other specialists to meet their
 needs and requirements.
+
+### Education
+### Geological engineer, РГГРУ (2017)
+
+### Online courses
+- Hexlet
+- RS School
+
+## English: B1
