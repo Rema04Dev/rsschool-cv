@@ -12,3 +12,25 @@ I have 2 years of experience web development, focusing on building responsive an
 - JavaScript, TypeScript
 - React and its ecosystem
 - GIT, Github
+
+### Code Examples
+
+<details>
+  <summary>palindrome problem</summary>
+  
+  ```ts
+  function isPalindrome(str: string): boolean {
+  let left = 0;
+  let right = str.length - 1;
+  while (left < right) {
+    if (str[left] !== str[right]) {
+      return false;
+    }
+    left++;
+    right--;
+  }
+  
+  return true;
+}
+```
+</details>
