@@ -34,3 +34,19 @@ I have 2 years of experience web development, focusing on building responsive an
 }
 ```
 </details>
+
+### Experience
+
+- #### RSS-aggregator [source code](https://github.com/Rema04Dev/RSS-aggregator)
+  A RSS feeds aggregator that helps you conveniently read a variety of sources, for example, blogs. You can add an infinite number of RSS feeds, check for updates, and add new entries to the main stream with this tool.
+
+- #### Difference-finder CLI [source code](https://github.com/Rema04Dev/difference-finder-cli)
+  Difference Finder is a program that determines the difference between two data structures. This is a common task for which there are numerous online services, for example, http://www.jsondiff.com/. This mechanism is used when outputting tests or tracking changes in configuration files.
+
+### Education
+- Hexlet (2022)
+- RS_School (2024)
+
+### Languages
+ - Russian - native 
+ - English - B1
