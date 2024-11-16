@@ -1,1 +1,1 @@
-[CV](https://Rema04Dev.github.io/rsschool-cv/cv)
+[HTML CV](https://Rema04Dev.github.io/rsschool-cv-html)
